@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Java Developer with Expertise in Java, Python, JavaScript, HTML/CSS</h3>   
 <!--<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obi-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="obi-reddy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DerangulaAbhishek&label=Profile%20views&color=0e75b6&style=flat" alt="Derangula-bhishek" /> </p>
  
 - 🔭 **I’m graduated from Jawaharlal Nehru Technological University Anantapur. I'm currently working as a Support Specialist at Artech KPMG**     
     
