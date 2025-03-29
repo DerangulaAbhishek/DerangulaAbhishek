@@ -1,3 +1,4 @@
+![](https://github.com/DerangulaAbhishek/DerangulaAbhishek/blob/6164ffc8c99ec48aef72500db2368bebc42dc46f/Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Abhishek Derangula</h1>
 <h3 align="center">Full Stack Java Developer with Expertise in Java, Python, JavaScript, HTML/CSS</h3>   
