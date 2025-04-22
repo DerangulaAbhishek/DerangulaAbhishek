@@ -8,7 +8,7 @@
  
 - 🔭 **I’m graduated from Jawaharlal Nehru Technological University Anantapur. I'm currently working as a Support Specialist at Artech KPMG**     
     
-- 🌱 I’m currently learning ** Microservices, DevOps**  
+- 🌱 I’m currently learning ** Java Full stack with React**  
 
 - 👯 I’m looking to collaborate on **Full-stack development** 
 
